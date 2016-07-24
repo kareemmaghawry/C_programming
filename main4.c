@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <curses.h>
+#include <conio.h>
+
 
 int main (void)
 
